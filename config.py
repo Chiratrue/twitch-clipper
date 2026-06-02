@@ -4,12 +4,12 @@
 
 # ── Twitch API ─────────────────────────────────────────────────
 # Как получить — читай README.md
-TWITCH_CLIENT_ID    = "СЮДА_CLIENT_ID"
-TWITCH_ACCESS_TOKEN = "СЮДА_ACCESS_TOKEN"
+TWITCH_CLIENT_ID    = "ecqppnndnwfcrji7hxe9au2cp7wme0"
+TWITCH_ACCESS_TOKEN = "2djrig4qfziyqbcd7yw8srh3jcgdad"
 
 # ── VOD ────────────────────────────────────────────────────────
 # Ссылка на VOD, например: "https://www.twitch.tv/videos/2345678901"
-VOD_URL = "https://www.twitch.tv/videos/XXXXXXXXXX"
+VOD_URL = "https://www.twitch.tv/videos/2785349643"
 
 # ── Клипы ─────────────────────────────────────────────────────
 CLIP_DURATION  = 55   # длина каждого клипа (секунд). TikTok: 30–60
