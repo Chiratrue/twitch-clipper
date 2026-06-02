@@ -1,0 +1,10 @@
+requests>=2.31.0
+yt-dlp>=2024.1.0
+chat-downloader>=0.3.0
+scipy>=1.11.0
+numpy>=1.24.0
+tqdm>=4.66.0
+
+# Детекция вебки (опционально, но рекомендуется)
+opencv-python>=4.8.0
+mediapipe>=0.10.0

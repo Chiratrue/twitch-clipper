@@ -1,0 +1,34 @@
+# Скачанные VOD (большие файлы — не коммитим)
+*.mp4
+*.mkv
+*.ts
+
+# Готовые клипы
+tiktok_clips/
+
+# Сохранённый layout (у каждого свой)
+layout_config.json
+layout_preview.jpg
+_preview_frame.png
+
+# Временные аудио файлы
+*_audio.wav
+*_audio.m4a
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Логи
+*.log
+session_log.json
