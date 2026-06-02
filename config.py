@@ -4,8 +4,8 @@
 
 # ── Twitch API ─────────────────────────────────────────────────
 # Как получить — читай README.md
-TWITCH_CLIENT_ID    = "ecqppnndnwfcrji7hxe9au2cp7wme0"
-TWITCH_ACCESS_TOKEN = "2djrig4qfziyqbcd7yw8srh3jcgdad"
+TWITCH_CLIENT_ID    = ""
+TWITCH_ACCESS_TOKEN = ""
 
 # ── VOD ────────────────────────────────────────────────────────
 # Ссылка на VOD, например: "https://www.twitch.tv/videos/2345678901"
